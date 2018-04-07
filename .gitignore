@@ -1,2 +1,8 @@
 #ignore all Python config files
 *.pyc
+
+Text/Quote_tracker_config.py
+Web/Fetch_weather_config.py
+
+#ignore all log files
+*.log
