@@ -6,3 +6,11 @@ Web/Fetch_weather_config.py
 
 #ignore all log files
 *.log
+
+Web/test.jpeg
+
+#ignore all PDFs
+*.pdf
+
+#ignore all CSVs
+*.csv
